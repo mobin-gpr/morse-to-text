@@ -10,7 +10,7 @@ This is a simple script to convert text to morse code and vice versa.
 ## Clone the project
 
 ```bash
-git clone https://github.com/mobin-gpr/py-snake-game.git
+git clone https://github.com/mobin-gpr/morse-to-text.git
 ```
 
 
